@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93927636540",
+    "firebase_url": "https://cmate-project.firebaseio.com",
+    "project_id": "cmate-project",
+    "storage_bucket": "cmate-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93927636540:android:d5aab6c0901a4899",
+        "android_client_info": {
+          "package_name": "com.thirdyear.project.cmateproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93927636540-0mnpofrtnv1vepc6v4ve712trtiujun4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSRBJt2EKQldJWc6Qik9gJILamgYv4Hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
